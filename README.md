@@ -32,7 +32,7 @@
 ## 📫 Como me encontrar
 📍 Carapicuiba - SP  
 📧 [lipealvesviana6@gmail.com](mailto:lipealvesviana6@gmail.com)  
-💼 [LinkedIn]([https://www.linkedin.com/in/felipealvesviana](https://www.linkedin.com/in/felipe-alves-viana-bb948b1b2/)) 
+💼 [LinkedIn](https://www.linkedin.com/in/felipe-alves-viana-bb948b1b2/)
 
 ---
 
