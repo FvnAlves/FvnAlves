@@ -16,7 +16,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode," />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Como me encontrar
-📍 São Paulo - SP  
+📍 Carapicuiba - SP  
 📧 [lipealvesviana6@gmail.com](mailto:lipealvesviana6@gmail.com)  
 💼 [LinkedIn]([https://www.linkedin.com/in/felipealvesviana](https://www.linkedin.com/in/felipe-alves-viana-bb948b1b2/)) 
 
